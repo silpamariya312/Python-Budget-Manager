@@ -1,0 +1,2 @@
+Income,30000.0,Salary
+Expense,500.0,Food
